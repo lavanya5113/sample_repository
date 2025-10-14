@@ -1,1 +1,2 @@
-this is file2
+This is file2
+updated file2
